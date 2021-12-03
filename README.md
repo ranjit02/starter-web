@@ -6,3 +6,5 @@ my GitHub FILE
 ## Purpose
 
 Sample website with plenty of files for demos
+
+#DEPLOYMENT
