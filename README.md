@@ -1,4 +1,4 @@
-# Starter Web Repo
+# STARTER WEB REPO
 
 This repository is for showing how Git and GitHub work
 my GitHub FILE
@@ -8,3 +8,4 @@ my GitHub FILE
 Sample website with plenty of files for demos
 
 #DEPLOYMENT
+I had made changes to this Readme FILE
