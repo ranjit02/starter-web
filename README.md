@@ -19,4 +19,4 @@ this is comparison
 
 ###Copyright
 
-2021 Git.traning.
+2021 My.Git.traning.
