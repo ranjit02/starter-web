@@ -10,6 +10,10 @@ Sample website with plenty of files for demos
 #DEPLOYMENT
 I had made changes to this Readme FILE
 
+####How to contribute
+
+please fork the repository and then issue pull request for review
+
 Test Run
 
 ####RANJIT################
